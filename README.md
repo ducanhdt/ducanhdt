@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Đức Anh
 I’m a master’s student at the University of Copenhagen, studying a unique program that combines Cognitive Science and AI. With a passion for creating practical AI solutions, I’ve worked on:
 
-1. 🤖 Vietnamese chatbot systems for low-resource languages.
+1. 🤖 Chatbot systems for low-resource languages.
 2. 🌟 Exploring new perspectives of cognitive science to enhance AI explainability.
 3. 🔍 Researching how to leverage knowledge graphs to mitigate hallucinations and enhance the trustworthiness of LLM systems.
 
